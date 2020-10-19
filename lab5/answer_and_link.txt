@@ -1,0 +1,5 @@
+link to youtube:
+https://youtu.be/QuXge3y7V7w
+
+Why the torques are different for different configurations?
+Answer: because we also considered the jacobians which differentiates accordingly
