@@ -15,6 +15,6 @@
 ### after that maxEpochs was changed to 30 and miniBatchSize to 200 with architecture 512-256-128 with leakyReluLayer
 ![img1](images/img8_512_256_128_ep30_batchsize200.PNG)
 ![img1](images/img9_512_256_128_ep30_batchsize200.PNG)
-### tanhLayer several times:
+### tanhLayer several times and number of epch was increased with the number of iterations:
 ![img1](images/img10_sevLayers_tanhLayer.PNG)
 ![img1](images/img11_sevLayers_tanhLayer.PNG)
