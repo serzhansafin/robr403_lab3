@@ -18,3 +18,4 @@
 ### tanhLayer several times and number of epch was increased with the number of iterations:
 ![img1](images/img10_sevLayers_tanhLayer.PNG)
 ![img1](images/img11_sevLayers_tanhLayer.PNG)
+### as we can see the result has improved
