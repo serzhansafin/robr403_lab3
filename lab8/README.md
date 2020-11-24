@@ -2,4 +2,18 @@
 
 ### The goal
 The goal is to locate robot's end-effector to the desired location. So, we use REinforcement Learning approach to solve IK problem
+
 ![](./images/true.png)
+
+### Initial parameters
+Inital values: alpha is 0.9, epsilon 0.1 and gamma 0.1.
+Initially the values were not changed and the training was going on. However, my laptop could not work for several hours to finish the training, so I had to stop it.
+Laptop overheated.
+
+### Later changes
+The changes that I made were:
+alpha was decreased to 0.1, while epsilon and gamma were increased to 0.9
+Then I have decreased the number of episodes to 10, because again if I will increase the number of episodes, my laptop will burn out (which is not the best case in front of final's week)
+So, the result was like this:
+
+![](./images/1.png)
