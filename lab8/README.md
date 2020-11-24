@@ -17,3 +17,10 @@ Then I have decreased the number of episodes to 10, because again if I will incr
 So, the result was like this:
 
 ![](./images/1.png)
+
+Further changes:
+The values of alpha was increased to 0.3, while for epsilon and gamma were decreased to 0.7 for both of them
+Then I have decrease the number of steps from 100 to 50
+The result was like this:
+
+![](./images/2_with50steps.png)
