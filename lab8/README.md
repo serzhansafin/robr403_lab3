@@ -24,3 +24,6 @@ Then I have decrease the number of steps from 100 to 50
 The result was like this:
 
 ![](./images/2_with50steps.png)
+
+Some thoughts:
+I would put as maximum episodes as I could and put the number of steps larger, but the power of my laptop could not allow to do that. Unfortunately I couldn't experiment much more with the parameters. But as I have noticed it is much better to put maximum epsilon and minimum alpha.
