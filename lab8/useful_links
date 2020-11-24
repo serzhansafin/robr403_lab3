@@ -1,3 +1,14 @@
 youtube:
 https://youtu.be/L9ShJciahmA
 (this is initially) the first one where no changes were made
+
+
+video on youtube: 
+(changes to alpha: it was decreased to 0.1, while epsilon and gamma were increased to 0.9.
+The number of episodes is 10
+https://youtu.be/3om-xpDOWuw
+
+Further changes:
+(The values of alpha was increased to 0.3, while for epsilon and gamma were decreased to 0.7 for both of them
+The number of steps is 50)
+https://youtu.be/3MCgA19bldI
