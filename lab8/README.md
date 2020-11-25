@@ -32,4 +32,8 @@ The result was like this:
 ![](./images/2_with50steps.png)
 
 ### Conclusion:
-I would put as maximum episodes as I could and put the number of steps larger, but the power of the laptop could not allow to do that. Unfortunately I couldn't experiment much more with the parameters. But as I have noticed it is much better to put maximum epsilon and minimum alpha.
+
+[The video on youtube](https://youtu.be/sbmb4P05VL8)
+
+Generally, the robot was going to the right as it can be seen from the video.
+I would put as maximum episodes as I could and put the number of steps larger, but the power of the laptop could not allow to do that. Unfortunately I couldn't experiment much more with the parameters. But it is much better to put maximum epsilon and minimum alpha.
