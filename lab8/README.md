@@ -14,7 +14,9 @@ Laptop overheated.
 The changes that I made were:
 alpha was decreased to 0.1, while epsilon and gamma were increased to 0.9
 Then I have decreased the number of episodes to 10, because again if I will increase the number of episodes, my laptop will burn out (which is not the best case in front of final's week)
+
 [Link to the video on youtube](https://youtu.be/3om-xpDOWuw)
+
 So, the result was like this:
 
 ![](./images/1.png)
@@ -22,7 +24,9 @@ So, the result was like this:
 ### Further changes:
 The values of alpha was increased to 0.3, while for epsilon and gamma were decreased to 0.7 for both of them
 Then I have decrease the number of steps from 100 to 50
+
 [The video on youtube](https://youtu.be/3MCgA19bldI)
+
 The result was like this:
 
 ![](./images/2_with50steps.png)
